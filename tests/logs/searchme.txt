@@ -1,0 +1,14 @@
+No don't, I'm carrying!
+This 'line' contains "double quotes".
+But this one doesn't.
+The end of this line is \ escaped.\
+This line is a duplicate.
+This line is a duplicate.
+
+
+
+This line is surrounded by blank lines and feels rather lonely.
+
+
+
+And this line has fallen asleep at the end.
